@@ -1,6 +1,6 @@
 # LEE-TOOLS 💥⚡ (Network Stresser)
 
-Một Tool DDoS cơ bản, được mình remake từ rất lâu rồi. Tuy không còn tác dụng với các Server Minecraft hiện nay, nhưng nó cũng là một phần kỷ niệm và ký ức trong suốt quá trình tiếp cận tựa game Minecraft 🎤✨
+Một Tool DDoS cơ bản, được mình nghiên cứu từ rất lâu rồi. Tuy không còn tác dụng với các Server Minecraft hiện nay, nhưng nó cũng là một phần kỷ niệm và ký ức trong suốt quá trình tiếp cận tựa game Minecraft 🎤✨
 
 ## Features 🎉
 
