@@ -105,7 +105,7 @@ Feel free, this source is completely free, your only contribution is to share in
 
 ## License 📝
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
